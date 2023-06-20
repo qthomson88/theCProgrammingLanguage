@@ -1,0 +1,1 @@
+The K & R bible is a computer programming classic. Even if you aren't doing a lot of C programming, the exercises are valuable. This repo is for my solutions to the exercises contained in the second edition of the book.
