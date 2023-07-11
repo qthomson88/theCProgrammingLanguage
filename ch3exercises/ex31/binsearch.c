@@ -1,6 +1,6 @@
 /* find a number in a sorted list using a binary search */
 
-int binsearch(int x, long list[], int length)
+int binsearch(int x, int list[], int length)
 {
     int low, high, mid;
 
@@ -26,7 +26,7 @@ int binsearch(int x, long list[], int length)
     return -1;
 }
 
-int binsearchShort(int x, long list[], int length)
+int binsearchShort(int x, int list[], int length)
 {
     int low, high, mid;
 
